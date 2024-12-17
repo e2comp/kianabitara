@@ -93,9 +93,15 @@
         content.innerHTML = `
           <h2>AUTOBIOGRAPHY</h2>
           <img src="Messenger_creation_3AE8B9A2-D146-4A0F-B95A-C72BD582AC7A.jpeg" alt="Kiana Infante Bitara">
-          <p>Kiana Infante Bitara or simply Kai to her family and close relatives, and Lev on Wattpad, is an aspiring writer...</p>
-          <p>Kiana is a social realist. She wrote stories dealing with psychological issues...</p>
-          <p>Currently, Kiana is focusing on her studies and has no intention of having any romantic relationship with anyone...</p>
+          <p>Kiana Infante Bitara or simply Kai to her family and close relatives, and Lev on wattpad, is an aspiring writer, and a second year college student under the program Bachelor of Science in Criminology in Sorsogon College of Criminology Inc. Born on 17th of September 2003, in San Jose Del Monte Bulacan, she grew up with her aunt and her parents' marriage godparents. 
+Kiana is a middle child with her sister as the eldest and her brother, the youngest. After 10 years of childhood in Bulacan, together with her elder sister and her younger brother, they moved to Sorsogon City to live with their father while her mother went abroad.
+Moving to places was not a new thing for her. There she continued elementary in Del Rosario Elementary School and met her relatives from her father side. Then in Junior High in Rawis National High School, she took ICT, same with her sister, because her mother did not allow her to take cookery. When she turned grade 9, her science teacher said in the class that it's a year where lots of change happens to a student and she believed it. From being an average student to a leader. She surpassed her old self in terms of academics and started to be sociable. Attending english and science classes never fail to make her feel valued and appreciated.</p>
+          <p>Feeling like she is just following her sisters' path, she did not pursue her passion for med. Though she's been bragging about taking Science, Technology, Engineering, and Mathematics for senior high school, and people knew she wanted to ba a doctor, she took up Humanities and Social Sciences in Senior High in Sorsogon National High School and BS Criminology in College in lieu of nursing, radiologic technologist, or any other premed courses.
+Outside of academics, she enjoy playing game of the generals and learning chess. Writing stories became her hobby since she graduated in elementary. And when her childhood friend died, she wrote an unpublished story in her draft as a tribute with the title, The Downfall of Burgos. It was about the first son of Burgos family who was forced to grow up too fast and faces abuse and domestic violence from people who should be the one encouraging and loving him. </p>
+          <p>Kiana is a social realist. She wrote stories dealing with psychological issues, about students at risk of dropping out of school, and why it is always the bullied but never the bully. Her theme is dark and was teased for being emo because of the color that represents her but it was for her branding.
+Currently, Kiana is focusing on her studies and has no intention of having any romantic relationship with anyone. She thinks it would only hinder her plans knowing she gets distracted easily. She's contented writing happy but mostly heavy angst scenarios in her novels. She's contented having a small circle of friends. Studying while pursuing her writing Hopelessly waiting for the biggest plot twist after college.
+
+The Article page must consist of this:</p>
         `;
       } else if (page === "article") {
         content.innerHTML = `
