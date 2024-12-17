@@ -92,7 +92,7 @@
       if (page === "autobiography") {
         content.innerHTML = `
           <h2>AUTOBIOGRAPHY</h2>
-          <img src="kiana.jpg" alt="Kiana Infante Bitara">
+          <img src="Messenger_creation_3AE8B9A2-D146-4A0F-B95A-C72BD582AC7A.jpeg" alt="Kiana Infante Bitara">
           <p>Kiana Infante Bitara or simply Kai to her family and close relatives, and Lev on Wattpad, is an aspiring writer...</p>
           <p>Kiana is a social realist. She wrote stories dealing with psychological issues...</p>
           <p>Currently, Kiana is focusing on her studies and has no intention of having any romantic relationship with anyone...</p>
