@@ -106,22 +106,92 @@ The Article page must consist of this:</p>
       } else if (page === "article") {
         content.innerHTML = `
           <h2>ARTICLE</h2>
-          <video controls>
-            <source src="https://www.youtube.com/embed/PzZsButRaHs" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-          <p>Plagiarism is the act of taking someone else’s work, ideas, or intellectual property...</p>
-          <p>Different countries treat plagiarism based on their legal and cultural views...</p>
+<iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/hDnN9TeN65E" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+          <p>Plagiarism is the act of taking someone else’s work, ideas, or intellectual property without proper acknowledgment. It is a serious offense across various domains, including academia, art, music, literature, and journalism. The consequences of plagiarism vary depending on the severity of the infringement and the country’s legal framework governing intellectual property rights. In academia, plagiarism can lead to severe academic sanctions, including revocation of degrees, expulsion from institutions, or professional discredit. Notably, Karl-Theodor zu Guttenberg, the German defense minister, had his doctoral degree revoked and was forced to resign after it was revealed he plagiarized large parts of his thesis. Similarly, in the U.S., Senator John Walsh faced public backlash and the revocation of his master's degree after his thesis was found to contain extensive plagiarism (Klein, 2014). These cases underscore how plagiarism can have long-lasting consequences on individuals’ careers and reputations./p>
+          <table border="1" style="width: 100%; border-collapse: collapse; color: black;">
+  <tr>
+    <th style="text-align: left; padding: 10px;">Context</th>
+    <th style="text-align: left; padding: 10px;">Details</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Music Plagiarism</td>
+    <td style="padding: 10px;">
+      In the realm of music, plagiarism often involves copyright infringement, with artists sometimes being required to pay royalties or settle out of court. 
+      For example, Radiohead’s song <em>Creep</em> was found to be similar to a song by Albert Hammond and Mike Hazlewood, leading to a settlement where 
+      Radiohead credited the original composers and shared royalties.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">Academic Plagiarism</td>
+    <td style="padding: 10px;">
+      In China, cheating in exams, which can be considered academic plagiarism, leads to annulled scores and criminal charges for fraud. For instance, 
+      in 2013, students caught using smartphones to cheat in national exams faced severe penalties, including criminal charges and the invalidation 
+      of their results (Chinese Ministry of Education, 2013).
+    </td>
+  </tr>
+</table>
+
+          <p>Different countries treat plagiarism based on their legal and cultural views on intellectual property, but it is universally seen as a breach of ethical and legal norms. Whether through legal action, academic sanctions, or professional consequences, plagiarism remains a violation that can have serious and far-reaching implications.</p>
         `;
       } else if (page === "blog") {
         content.innerHTML = `
           <h2>BLOG</h2>
-          <video controls>
-            <source src="https://www.youtube.com/embed/NMYbkzjI5EY" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-          <p>In today's digital age, navigating cybersecurity threats like viruses, malware, and spam...</p>
-          <p>Antivirus software is designed to detect, quarantine, and remove viruses and other malware...</p>
+          <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/NMYbkzjI5EY" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+          <p>In today's digital age, navigating cybersecurity threats like viruses, malware, and spam is crucial for individuals and businesses alike. These malicious programs and activities not only disrupt systems but also pose significant risks to privacy and security. Here’s an overview of these threats and the role of antivirus software in combating them.
+</p>
+<table border="1" style="width: 100%; border-collapse: collapse; color: black;">
+  <tr>
+    <th style="text-align: left; padding: 10px;">Topic</th>
+    <th style="text-align: left; padding: 10px;">Details</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">1. Viruses and Malware</td>
+    <td style="padding: 10px;">
+      Viruses are malicious programs designed to replicate and spread by attaching themselves to legitimate files or programs. They can corrupt data, crash systems, and even steal sensitive information.<br><br>
+      Malware (malicious software) encompasses a broader category, including spyware, ransomware, and trojans. These programs are used by cybercriminals to:
+      <ul>
+        <li>Steal personal and financial information.</li>
+        <li>Monitor user activity.</li>
+        <li>Demand ransoms (ransomware) or install other harmful software.</li>
+      </ul>
+      To protect against these threats, it's essential to use up-to-date security software and exercise caution when downloading files or clicking on unfamiliar links.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">2. Spam and Email Threats</td>
+    <td style="padding: 10px;">
+      Spam involves unsolicited emails, often sent in bulk, that can contain misleading advertisements, phishing attempts, or links to malware. Laws like the CAN-SPAM Act in the United States regulate email marketing practices, ensuring that consumers can opt out of such communications and protecting them from deceptive content.<br><br>
+      Phishing emails, a form of spam, aim to trick recipients into divulging sensitive information, such as login credentials or credit card numbers. Recognizing suspicious emails and avoiding unverified links are critical for maintaining cybersecurity.
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px;">3. Role of Antiviruses</td>
+    <td style="padding: 10px;">
+      Antivirus software is designed to detect, quarantine, and remove viruses and other malware. Modern antivirus programs also include features like:
+      <ul>
+        <li>Real-time scanning of files and websites.</li>
+        <li>Firewalls to block unauthorized access.</li>
+        <li>Anti-spam tools to filter harmful emails.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+          <p>Choosing reputable antivirus solutions and keeping them updated ensures robust protection against emerging threats.</p>
         `;
       } else if (page === "form") {
         content.innerHTML = `
