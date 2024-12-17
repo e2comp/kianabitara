@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -73,7 +73,7 @@
         <source src="videoplayback (12).webm" type="audio/mp3">
         Your browser does not support the audio element.
       </audio>
-      <img src="Brown Aesthetic Vintage Scrapbook Background Instagram Story_20241217_110506_0000.png" alt="Welcome Message">" alt="Kiana Infante Bitara">
+      <img src="Brown Aesthetic Vintage Scrapbook Background Instagram Story_20241217_110506_0000.png" alt="Welcome Message">" 
     </header>
     <nav>
       <button onclick="navigate('autobiography')">Autobiography</button>
@@ -115,7 +115,7 @@ The Article page must consist of this:</p>
         allowfullscreen>
 </iframe>
 
-          <p>Plagiarism is the act of taking someone else’s work, ideas, or intellectual property without proper acknowledgment. It is a serious offense across various domains, including academia, art, music, literature, and journalism. The consequences of plagiarism vary depending on the severity of the infringement and the country’s legal framework governing intellectual property rights. In academia, plagiarism can lead to severe academic sanctions, including revocation of degrees, expulsion from institutions, or professional discredit. Notably, Karl-Theodor zu Guttenberg, the German defense minister, had his doctoral degree revoked and was forced to resign after it was revealed he plagiarized large parts of his thesis. Similarly, in the U.S., Senator John Walsh faced public backlash and the revocation of his master's degree after his thesis was found to contain extensive plagiarism (Klein, 2014). These cases underscore how plagiarism can have long-lasting consequences on individuals’ careers and reputations./p>
+          <p>Plagiarism is the act of taking someone else’s work, ideas, or intellectual property without proper acknowledgment. It is a serious offense across various domains, including academia, art, music, literature, and journalism. The consequences of plagiarism vary depending on the severity of the infringement and the country’s legal framework governing intellectual property rights. In academia, plagiarism can lead to severe academic sanctions, including revocation of degrees, expulsion from institutions, or professional discredit. Notably, Karl-Theodor zu Guttenberg, the German defense minister, had his doctoral degree revoked and was forced to resign after it was revealed he plagiarized large parts of his thesis. Similarly, in the U.S., Senator John Walsh faced public backlash and the revocation of his master's degree after his thesis was found to contain extensive plagiarism (Klein, 2014). These cases underscore how plagiarism can have long-lasting consequences on individuals’ careers and reputations. </p>
           <table border="1" style="width: 100%; border-collapse: collapse; color: black;">
   <tr>
     <th style="text-align: left; padding: 10px;">Context</th>
