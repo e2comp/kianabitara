@@ -73,6 +73,7 @@
         <source src="videoplayback (12).webm" type="audio/mp3">
         Your browser does not support the audio element.
       </audio>
+      <img src="<img src="Messenger_creation_3AE8B9A2-D146-4A0F-B95A-C72BD582AC7A.jpeg" alt="Kiana Infante Bitara">" alt="Kiana Infante Bitara">
     </header>
     <nav>
       <button onclick="navigate('autobiography')">Autobiography</button>
